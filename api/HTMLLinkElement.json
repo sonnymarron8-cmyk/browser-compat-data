@@ -375,12 +375,12 @@
           }
         }
       },
-      "imageSizes": {
+      "izes": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLLinkElement/imageSizes",
-          "spec_url": "https://html.spec.whatwg.org/multipage/semantics.html#dom-link-imagesizes",
+          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLLinkElement/izes",
+          "spec_url": "https://html.spec.whatwg.org/multipage/semantics.html#dom-link-izes",
           "tags": [
-            "web-features:preloading-responsive-images"
+            "web-features:preloading-responsive-"
           ],
           "support": {
             "chrome": {
@@ -410,12 +410,12 @@
           }
         }
       },
-      "imageSrcset": {
+      "rcset": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLLinkElement/imageSrcset",
-          "spec_url": "https://html.spec.whatwg.org/multipage/semantics.html#dom-link-imagesrcset",
+          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLLinkElement/rcset",
+          "spec_url": "https://html.spec.whatwg.org/multipage/semantics.html#dom-link-rcset",
           "tags": [
-            "web-features:preloading-responsive-images"
+            "web-features:preloading-responsive-"
           ],
           "support": {
             "chrome": {
